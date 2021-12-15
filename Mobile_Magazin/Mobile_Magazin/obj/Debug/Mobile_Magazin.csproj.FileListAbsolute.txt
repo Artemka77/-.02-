@@ -1,0 +1,10 @@
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\bin\Debug\Mobile_Magazin.exe.config
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\bin\Debug\Mobile_Magazin.exe
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\bin\Debug\Mobile_Magazin.pdb
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\obj\Debug\Mobile_Magazin.csprojAssemblyReference.cache
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\obj\Debug\Mobile_Magazin.Form1.resources
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\obj\Debug\Mobile_Magazin.Properties.Resources.resources
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\obj\Debug\Mobile_Magazin.csproj.GenerateResource.cache
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\obj\Debug\Mobile_Magazin.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\obj\Debug\Mobile_Magazin.exe
+C:\Users\Gigabyte\source\repos\Mobile_Magazin\Mobile_Magazin\obj\Debug\Mobile_Magazin.pdb
